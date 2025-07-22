@@ -1,0 +1,16 @@
+# 🏡 Elastic Net Regression: Liverpool Housing Market
+
+This project applies Elastic Net regression to predict housing prices in Liverpool using socioeconomic indicators and housing features. Developed as part of my MSc Data Science degree at the University of Leeds.
+
+## 📁 Files
+- `scripts/elasticnet_model_liverpool.R`: Full R code
+- `report/Liverpool_Housing_EN_Report.pdf`: Full project report
+- `data/assign_data.RData`: Dataset (for academic purposes only)
+
+## 📊 Key Highlights
+- Used log transformation, cross-validation, and model tuning
+- Achieved RMSE: 0.384 and R²: 0.637
+- Identified beds and unemployment rate as top predictors
+
+## 🧠 Tools
+- R, caret, ggplot2
